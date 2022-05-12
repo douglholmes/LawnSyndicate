@@ -1,1 +1,7 @@
 Notes For Building the Lawn Syndicate Web Application
+
+1) create main landing page for website
+2) look into google maps APIs
+3) creat a database with area to add fertilizrs and products for the Lawn
+4) crisp clean modern bootstrap design
+5) color scheme
